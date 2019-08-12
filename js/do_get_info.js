@@ -64,7 +64,7 @@ function doComplete() {
 }
 
 
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbyzk8VypQZuVZS1jqZobUNnP1LSuaPQ0WuOA3v8PPS6-TNMPRNr/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbx0-VxK5EaHCMButkjgpEsC_Lhq_IHSGpL_UggUK7RD3VBoEH8/exec';
 
 const loading = document.querySelector('.js-loading');
 const successMessage = document.querySelector('.js-success-message');
